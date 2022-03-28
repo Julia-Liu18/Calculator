@@ -30,9 +30,8 @@
         android:layout_height="35dp"
         android:background="@color/cardview_dark_background"
         android:inputType="number"
-        android:text=""
-        tools:layout_editor_absoluteX="155dp"
-        tools:layout_editor_absoluteY="264dp" />
+        android:layout_marginTop="10dp"
+        android:text="" />
 
     <Button
         android:id="@+id/button"
